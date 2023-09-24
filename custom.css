@@ -1323,11 +1323,6 @@
 }
 
 /* Mobile styles */
-@media only screen and (max-width: 768px) { /* This is a common breakpoint for tablets and below */
-    .mobile_sidebar {
-        display: none;
-    }
-}
 
 
 
